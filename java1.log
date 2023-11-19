@@ -1,0 +1,44 @@
+Nov 18, 2023 11:41:42 PM biz.ganttproject.LoggerImpl debug
+FINE: Creating main frame...
+Nov 18, 2023 11:41:42 PM biz.ganttproject.LoggerImpl debug
+FINE: 1. loading look'n'feels
+Nov 18, 2023 11:41:42 PM biz.ganttproject.LoggerImpl debug
+FINE: 2. loading options
+Nov 18, 2023 11:41:42 PM biz.ganttproject.LoggerImpl debug
+FINE: 3. creating menus...
+Nov 18, 2023 11:41:43 PM biz.ganttproject.LoggerImpl debug
+FINE: 4. creating views...
+Nov 18, 2023 11:41:43 PM biz.ganttproject.LoggerImpl debug
+FINE: 5. calculating size and packing...
+Nov 18, 2023 11:41:43 PM biz.ganttproject.LoggerImpl debug
+FINE: 6. changing language ...
+Nov 18, 2023 11:41:43 PM biz.ganttproject.LoggerImpl debug
+FINE: 7. first attempt to restore bounds
+Nov 18, 2023 11:41:43 PM biz.ganttproject.LoggerImpl debug
+FINE: 8. finalizing...
+Nov 18, 2023 11:41:43 PM net.sourceforge.ganttproject.GPLogger log
+INFO: Deleting old auto-save files
+Nov 19, 2023 12:41:53 AM net.sourceforge.ganttproject.GPLogger log
+INFO: [GanttOptions] save(): finished!!
+Nov 19, 2023 12:46:56 AM biz.ganttproject.LoggerImpl debug
+FINE: Creating main frame...
+Nov 19, 2023 12:46:56 AM biz.ganttproject.LoggerImpl debug
+FINE: 1. loading look'n'feels
+Nov 19, 2023 12:46:56 AM biz.ganttproject.LoggerImpl debug
+FINE: 2. loading options
+Nov 19, 2023 12:46:56 AM biz.ganttproject.LoggerImpl debug
+FINE: 3. creating menus...
+Nov 19, 2023 12:46:57 AM biz.ganttproject.LoggerImpl debug
+FINE: 4. creating views...
+Nov 19, 2023 12:46:57 AM biz.ganttproject.LoggerImpl debug
+FINE: 5. calculating size and packing...
+Nov 19, 2023 12:46:57 AM biz.ganttproject.LoggerImpl debug
+FINE: 6. changing language ...
+Nov 19, 2023 12:46:57 AM biz.ganttproject.LoggerImpl debug
+FINE: 7. first attempt to restore bounds
+Nov 19, 2023 12:46:57 AM biz.ganttproject.LoggerImpl debug
+FINE: 8. finalizing...
+Nov 19, 2023 12:46:57 AM net.sourceforge.ganttproject.GPLogger log
+INFO: Deleting old auto-save files
+Nov 19, 2023 12:47:02 AM net.sourceforge.ganttproject.GPLogger log
+INFO: [GanttOptions] save(): finished!!

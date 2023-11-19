@@ -1,0 +1,46 @@
+GanttProject 3.2.3247
+Settings file:
+	location: C:\Users\Matija\.ganttproject
+	size:5004
+	is readable: true
+java.class.path: eclipsito.jar;E:\GanttProject\GanttProject-3.2
+java.home: E:\GanttProject\GanttProject-3.2\runtime
+java.ext.dirs: null
+java.io.tmpdir: C:\Users\Matija\AppData\Local\Temp\
+java.runtime.version: 11.0.13+8-LTS
+java.vendor: BellSoft
+java.vm.name: OpenJDK 64-Bit Server VM
+java.vm.vendor: BellSoft
+java.vm.version: 11.0.13+8-LTS
+os.arch: amd64
+os.name: Windows 10
+os.version: 10.0
+sun.java.command: com.bardsoftware.eclipsito.Launch --verbosity 1 --version-dirs plugins;~/.ganttproject.d/updates --app net.sourceforge.ganttproject.GanttProject C:\Users\Matija\Gantt_GISgen.gan
+user.country: US
+user.dir: E:\GanttProject\GanttProject-3.2
+user.home: C:\Users\Matija
+user.language: en
+user.timezone: Europe/Prague
+
+Nov 19, 2023 12:57:21 AM biz.ganttproject.LoggerImpl debug
+FINE: Creating main frame...
+Nov 19, 2023 12:57:21 AM biz.ganttproject.LoggerImpl debug
+FINE: 1. loading look'n'feels
+Nov 19, 2023 12:57:21 AM biz.ganttproject.LoggerImpl debug
+FINE: 2. loading options
+Nov 19, 2023 12:57:21 AM biz.ganttproject.LoggerImpl debug
+FINE: 3. creating menus...
+Nov 19, 2023 12:57:21 AM biz.ganttproject.LoggerImpl debug
+FINE: 4. creating views...
+Nov 19, 2023 12:57:22 AM biz.ganttproject.LoggerImpl debug
+FINE: 5. calculating size and packing...
+Nov 19, 2023 12:57:22 AM biz.ganttproject.LoggerImpl debug
+FINE: 6. changing language ...
+Nov 19, 2023 12:57:22 AM biz.ganttproject.LoggerImpl debug
+FINE: 7. first attempt to restore bounds
+Nov 19, 2023 12:57:22 AM biz.ganttproject.LoggerImpl debug
+FINE: 8. finalizing...
+Nov 19, 2023 12:57:22 AM net.sourceforge.ganttproject.GPLogger log
+INFO: Deleting old auto-save files
+Nov 19, 2023 12:57:31 AM net.sourceforge.ganttproject.GPLogger log
+INFO: [GanttOptions] save(): finished!!

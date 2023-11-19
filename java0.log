@@ -1,0 +1,334 @@
+Nov 18, 2023 11:37:24 PM biz.ganttproject.LoggerImpl debug
+FINE: Creating main frame...
+Nov 18, 2023 11:37:24 PM biz.ganttproject.LoggerImpl debug
+FINE: 1. loading look'n'feels
+Nov 18, 2023 11:37:25 PM biz.ganttproject.LoggerImpl debug
+FINE: 2. loading options
+Nov 18, 2023 11:37:25 PM biz.ganttproject.LoggerImpl debug
+FINE: 3. creating menus...
+Nov 18, 2023 11:37:25 PM biz.ganttproject.LoggerImpl debug
+FINE: 4. creating views...
+Nov 18, 2023 11:37:25 PM biz.ganttproject.LoggerImpl debug
+FINE: 5. calculating size and packing...
+Nov 18, 2023 11:37:25 PM biz.ganttproject.LoggerImpl debug
+FINE: 6. changing language ...
+Nov 18, 2023 11:37:25 PM biz.ganttproject.LoggerImpl debug
+FINE: 7. first attempt to restore bounds
+Nov 18, 2023 11:37:25 PM biz.ganttproject.LoggerImpl debug
+FINE: 8. finalizing...
+Nov 18, 2023 11:37:58 PM com.bardsoftware.eclipsito.update.DownloadWorker downloadZip
+INFO: Will download 15351580 bytes and save as file C:\Users\Matija\AppData\Local\Temp\ganttproject-update7294840871452008733zip
+Nov 18, 2023 11:38:04 PM com.bardsoftware.eclipsito.update.DownloadWorker downloadZip
+INFO: Will download 15389571 bytes and save as file C:\Users\Matija\AppData\Local\Temp\ganttproject-update13559659679738358754zip
+Nov 18, 2023 11:38:06 PM com.bardsoftware.eclipsito.update.DownloadWorker downloadZip
+INFO: Will download 8572340 bytes and save as file C:\Users\Matija\AppData\Local\Temp\ganttproject-update17025410196281988718zip
+Nov 18, 2023 11:38:11 PM net.sourceforge.ganttproject.GPLogger log
+INFO: [GanttOptions] save(): finished!!
+Nov 18, 2023 11:38:13 PM biz.ganttproject.LoggerImpl debug
+FINE: Creating main frame...
+Nov 18, 2023 11:38:13 PM biz.ganttproject.LoggerImpl debug
+FINE: 1. loading look'n'feels
+Nov 18, 2023 11:38:13 PM biz.ganttproject.LoggerImpl debug
+FINE: 2. loading options
+Nov 18, 2023 11:38:13 PM biz.ganttproject.LoggerImpl debug
+FINE: 3. creating menus...
+Nov 18, 2023 11:38:13 PM biz.ganttproject.LoggerImpl debug
+FINE: 4. creating views...
+Nov 18, 2023 11:38:14 PM biz.ganttproject.LoggerImpl debug
+FINE: 5. calculating size and packing...
+Nov 18, 2023 11:38:14 PM biz.ganttproject.LoggerImpl debug
+FINE: 6. changing language ...
+Nov 18, 2023 11:38:14 PM biz.ganttproject.LoggerImpl debug
+FINE: 7. first attempt to restore bounds
+Nov 18, 2023 11:38:14 PM biz.ganttproject.LoggerImpl debug
+FINE: 8. finalizing...
+Nov 18, 2023 11:38:14 PM net.sourceforge.ganttproject.GPLogger log
+INFO: Deleting old auto-save files
+Nov 18, 2023 11:48:00 PM net.sourceforge.ganttproject.GPLogger log
+INFO: [GanttOptions] save(): finished!!
+Nov 19, 2023 12:01:31 AM net.sourceforge.ganttproject.GPLogger logToLogger
+WARNING: null
+java.lang.NullPointerException
+	at biz.ganttproject.ganttview.DragAndDropSupport.dragDetected(TaskTable.kt:955)
+	at biz.ganttproject.ganttview.DragAndDropSupport.install$lambda-0(TaskTable.kt:946)
+	at javafx.base/com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(Unknown Source)
+	at javafx.base/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(Unknown Source)
+	at javafx.base/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(Unknown Source)
+	at javafx.base/com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(Unknown Source)
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(Unknown Source)
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(Unknown Source)
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(Unknown Source)
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(Unknown Source)
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(Unknown Source)
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(Unknown Source)
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(Unknown Source)
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(Unknown Source)
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(Unknown Source)
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(Unknown Source)
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(Unknown Source)
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(Unknown Source)
+	at javafx.base/com.sun.javafx.event.EventUtil.fireEventImpl(Unknown Source)
+	at javafx.base/com.sun.javafx.event.EventUtil.fireEvent(Unknown Source)
+	at javafx.base/javafx.event.Event.fireEvent(Unknown Source)
+	at javafx.graphics/javafx.scene.Scene$DnDGesture.fireEvent(Unknown Source)
+	at javafx.graphics/javafx.scene.Scene$DnDGesture.process(Unknown Source)
+	at javafx.graphics/javafx.scene.Scene$DnDGesture.access$8300(Unknown Source)
+	at javafx.graphics/javafx.scene.Scene$MouseHandler.process(Unknown Source)
+	at javafx.graphics/javafx.scene.Scene$MouseHandler.access$1200(Unknown Source)
+	at javafx.graphics/javafx.scene.Scene.processMouseEvent(Unknown Source)
+	at javafx.graphics/javafx.scene.Scene$ScenePeerListener.mouseEvent(Unknown Source)
+	at javafx.graphics/com.sun.javafx.tk.quantum.EmbeddedScene.lambda$mouseEvent$4(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at javafx.graphics/com.sun.javafx.tk.quantum.EmbeddedScene.lambda$mouseEvent$5(Unknown Source)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$10(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$11(Unknown Source)
+	at javafx.graphics/com.sun.glass.ui.InvokeLaterDispatcher$Future.run(Unknown Source)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+Nov 19, 2023 12:45:45 AM net.sourceforge.ganttproject.GPLogger log
+INFO: [GanttOptions] save(): finished!!
+Nov 19, 2023 12:46:05 AM biz.ganttproject.LoggerImpl debug
+FINE: Creating main frame...
+Nov 19, 2023 12:46:05 AM biz.ganttproject.LoggerImpl debug
+FINE: 1. loading look'n'feels
+Nov 19, 2023 12:46:05 AM biz.ganttproject.LoggerImpl debug
+FINE: 2. loading options
+Nov 19, 2023 12:46:05 AM biz.ganttproject.LoggerImpl debug
+FINE: 3. creating menus...
+Nov 19, 2023 12:46:06 AM biz.ganttproject.LoggerImpl debug
+FINE: 4. creating views...
+Nov 19, 2023 12:46:06 AM biz.ganttproject.LoggerImpl debug
+FINE: 5. calculating size and packing...
+Nov 19, 2023 12:46:06 AM biz.ganttproject.LoggerImpl debug
+FINE: 6. changing language ...
+Nov 19, 2023 12:46:06 AM biz.ganttproject.LoggerImpl debug
+FINE: 7. first attempt to restore bounds
+Nov 19, 2023 12:46:06 AM biz.ganttproject.LoggerImpl debug
+FINE: 8. finalizing...
+Nov 19, 2023 12:46:06 AM net.sourceforge.ganttproject.GPLogger log
+INFO: Deleting old auto-save files
+Nov 19, 2023 12:47:33 AM net.sourceforge.ganttproject.GPLogger log
+INFO: [GanttOptions] save(): finished!!
+Nov 19, 2023 12:48:35 AM biz.ganttproject.LoggerImpl debug
+FINE: Creating main frame...
+Nov 19, 2023 12:48:35 AM biz.ganttproject.LoggerImpl debug
+FINE: 1. loading look'n'feels
+Nov 19, 2023 12:48:35 AM biz.ganttproject.LoggerImpl debug
+FINE: 2. loading options
+Nov 19, 2023 12:48:35 AM biz.ganttproject.LoggerImpl debug
+FINE: 3. creating menus...
+Nov 19, 2023 12:48:36 AM biz.ganttproject.LoggerImpl debug
+FINE: 4. creating views...
+Nov 19, 2023 12:48:36 AM biz.ganttproject.LoggerImpl debug
+FINE: 5. calculating size and packing...
+Nov 19, 2023 12:48:36 AM biz.ganttproject.LoggerImpl debug
+FINE: 6. changing language ...
+Nov 19, 2023 12:48:36 AM biz.ganttproject.LoggerImpl debug
+FINE: 7. first attempt to restore bounds
+Nov 19, 2023 12:48:36 AM biz.ganttproject.LoggerImpl debug
+FINE: 8. finalizing...
+Nov 19, 2023 12:48:36 AM net.sourceforge.ganttproject.GPLogger log
+INFO: Deleting old auto-save files
+Nov 19, 2023 12:48:40 AM net.sourceforge.ganttproject.GPLogger log
+INFO: [GanttOptions] save(): finished!!
+Nov 19, 2023 12:50:08 AM biz.ganttproject.LoggerImpl debug
+FINE: Creating main frame...
+Nov 19, 2023 12:50:08 AM biz.ganttproject.LoggerImpl debug
+FINE: 1. loading look'n'feels
+Nov 19, 2023 12:50:09 AM biz.ganttproject.LoggerImpl debug
+FINE: 2. loading options
+Nov 19, 2023 12:50:09 AM biz.ganttproject.LoggerImpl debug
+FINE: 3. creating menus...
+Nov 19, 2023 12:50:09 AM biz.ganttproject.LoggerImpl debug
+FINE: 4. creating views...
+Nov 19, 2023 12:50:09 AM biz.ganttproject.LoggerImpl debug
+FINE: 5. calculating size and packing...
+Nov 19, 2023 12:50:09 AM biz.ganttproject.LoggerImpl debug
+FINE: 6. changing language ...
+Nov 19, 2023 12:50:09 AM biz.ganttproject.LoggerImpl debug
+FINE: 7. first attempt to restore bounds
+Nov 19, 2023 12:50:09 AM biz.ganttproject.LoggerImpl debug
+FINE: 8. finalizing...
+Nov 19, 2023 12:50:10 AM net.sourceforge.ganttproject.GPLogger log
+INFO: Deleting old auto-save files
+Nov 19, 2023 12:51:39 AM net.sourceforge.ganttproject.GPLogger log
+INFO: [GanttOptions] save(): finished!!
+Nov 19, 2023 12:51:53 AM biz.ganttproject.LoggerImpl debug
+FINE: Creating main frame...
+Nov 19, 2023 12:51:53 AM biz.ganttproject.LoggerImpl debug
+FINE: 1. loading look'n'feels
+Nov 19, 2023 12:51:53 AM biz.ganttproject.LoggerImpl debug
+FINE: 2. loading options
+Nov 19, 2023 12:51:53 AM biz.ganttproject.LoggerImpl debug
+FINE: 3. creating menus...
+Nov 19, 2023 12:51:54 AM biz.ganttproject.LoggerImpl debug
+FINE: 4. creating views...
+Nov 19, 2023 12:51:54 AM biz.ganttproject.LoggerImpl debug
+FINE: 5. calculating size and packing...
+Nov 19, 2023 12:51:54 AM biz.ganttproject.LoggerImpl debug
+FINE: 6. changing language ...
+Nov 19, 2023 12:51:54 AM biz.ganttproject.LoggerImpl debug
+FINE: 7. first attempt to restore bounds
+Nov 19, 2023 12:51:54 AM biz.ganttproject.LoggerImpl debug
+FINE: 8. finalizing...
+Nov 19, 2023 12:51:54 AM net.sourceforge.ganttproject.GPLogger log
+INFO: Deleting old auto-save files
+Nov 19, 2023 12:53:16 AM net.sourceforge.ganttproject.GPLogger log
+INFO: [GanttOptions] save(): finished!!
+Nov 19, 2023 12:53:20 AM biz.ganttproject.LoggerImpl debug
+FINE: Creating main frame...
+Nov 19, 2023 12:53:20 AM biz.ganttproject.LoggerImpl debug
+FINE: 1. loading look'n'feels
+Nov 19, 2023 12:53:20 AM biz.ganttproject.LoggerImpl debug
+FINE: 2. loading options
+Nov 19, 2023 12:53:20 AM biz.ganttproject.LoggerImpl debug
+FINE: 3. creating menus...
+Nov 19, 2023 12:53:21 AM biz.ganttproject.LoggerImpl debug
+FINE: 4. creating views...
+Nov 19, 2023 12:53:21 AM biz.ganttproject.LoggerImpl debug
+FINE: 5. calculating size and packing...
+Nov 19, 2023 12:53:21 AM biz.ganttproject.LoggerImpl debug
+FINE: 6. changing language ...
+Nov 19, 2023 12:53:21 AM biz.ganttproject.LoggerImpl debug
+FINE: 7. first attempt to restore bounds
+Nov 19, 2023 12:53:21 AM biz.ganttproject.LoggerImpl debug
+FINE: 8. finalizing...
+Nov 19, 2023 12:53:21 AM net.sourceforge.ganttproject.GPLogger log
+INFO: Deleting old auto-save files
+Nov 19, 2023 12:53:26 AM net.sourceforge.ganttproject.GPLogger log
+INFO: [GanttOptions] save(): finished!!
+Nov 19, 2023 12:53:45 AM biz.ganttproject.LoggerImpl debug
+FINE: Creating main frame...
+Nov 19, 2023 12:53:45 AM biz.ganttproject.LoggerImpl debug
+FINE: 1. loading look'n'feels
+Nov 19, 2023 12:53:46 AM biz.ganttproject.LoggerImpl debug
+FINE: 2. loading options
+Nov 19, 2023 12:53:46 AM biz.ganttproject.LoggerImpl debug
+FINE: 3. creating menus...
+Nov 19, 2023 12:53:46 AM biz.ganttproject.LoggerImpl debug
+FINE: 4. creating views...
+Nov 19, 2023 12:53:46 AM biz.ganttproject.LoggerImpl debug
+FINE: 5. calculating size and packing...
+Nov 19, 2023 12:53:46 AM biz.ganttproject.LoggerImpl debug
+FINE: 6. changing language ...
+Nov 19, 2023 12:53:46 AM biz.ganttproject.LoggerImpl debug
+FINE: 7. first attempt to restore bounds
+Nov 19, 2023 12:53:46 AM biz.ganttproject.LoggerImpl debug
+FINE: 8. finalizing...
+Nov 19, 2023 12:53:47 AM net.sourceforge.ganttproject.GPLogger log
+INFO: Deleting old auto-save files
+Nov 19, 2023 12:53:53 AM net.sourceforge.ganttproject.GPLogger log
+INFO: [GanttOptions] save(): finished!!
+Nov 19, 2023 12:54:00 AM biz.ganttproject.LoggerImpl debug
+FINE: Creating main frame...
+Nov 19, 2023 12:54:00 AM biz.ganttproject.LoggerImpl debug
+FINE: 1. loading look'n'feels
+Nov 19, 2023 12:54:01 AM biz.ganttproject.LoggerImpl debug
+FINE: 2. loading options
+Nov 19, 2023 12:54:01 AM biz.ganttproject.LoggerImpl debug
+FINE: 3. creating menus...
+Nov 19, 2023 12:54:01 AM biz.ganttproject.LoggerImpl debug
+FINE: 4. creating views...
+Nov 19, 2023 12:54:01 AM biz.ganttproject.LoggerImpl debug
+FINE: 5. calculating size and packing...
+Nov 19, 2023 12:54:01 AM biz.ganttproject.LoggerImpl debug
+FINE: 6. changing language ...
+Nov 19, 2023 12:54:01 AM biz.ganttproject.LoggerImpl debug
+FINE: 7. first attempt to restore bounds
+Nov 19, 2023 12:54:01 AM biz.ganttproject.LoggerImpl debug
+FINE: 8. finalizing...
+Nov 19, 2023 12:54:02 AM net.sourceforge.ganttproject.GPLogger log
+INFO: Deleting old auto-save files
+Nov 19, 2023 12:54:10 AM net.sourceforge.ganttproject.GPLogger log
+INFO: [GanttOptions] save(): finished!!
+Nov 19, 2023 12:54:30 AM biz.ganttproject.LoggerImpl debug
+FINE: Creating main frame...
+Nov 19, 2023 12:54:30 AM biz.ganttproject.LoggerImpl debug
+FINE: 1. loading look'n'feels
+Nov 19, 2023 12:54:30 AM biz.ganttproject.LoggerImpl debug
+FINE: 2. loading options
+Nov 19, 2023 12:54:30 AM biz.ganttproject.LoggerImpl debug
+FINE: 3. creating menus...
+Nov 19, 2023 12:54:31 AM biz.ganttproject.LoggerImpl debug
+FINE: 4. creating views...
+Nov 19, 2023 12:54:31 AM biz.ganttproject.LoggerImpl debug
+FINE: 5. calculating size and packing...
+Nov 19, 2023 12:54:31 AM biz.ganttproject.LoggerImpl debug
+FINE: 6. changing language ...
+Nov 19, 2023 12:54:31 AM biz.ganttproject.LoggerImpl debug
+FINE: 7. first attempt to restore bounds
+Nov 19, 2023 12:54:31 AM biz.ganttproject.LoggerImpl debug
+FINE: 8. finalizing...
+Nov 19, 2023 12:54:31 AM net.sourceforge.ganttproject.GPLogger log
+INFO: Deleting old auto-save files
+Nov 19, 2023 12:54:35 AM net.sourceforge.ganttproject.GPLogger log
+INFO: [GanttOptions] save(): finished!!
+Nov 19, 2023 12:55:18 AM biz.ganttproject.LoggerImpl debug
+FINE: Creating main frame...
+Nov 19, 2023 12:55:18 AM biz.ganttproject.LoggerImpl debug
+FINE: 1. loading look'n'feels
+Nov 19, 2023 12:55:18 AM biz.ganttproject.LoggerImpl debug
+FINE: 2. loading options
+Nov 19, 2023 12:55:19 AM biz.ganttproject.LoggerImpl debug
+FINE: 3. creating menus...
+Nov 19, 2023 12:55:19 AM biz.ganttproject.LoggerImpl debug
+FINE: 4. creating views...
+Nov 19, 2023 12:55:19 AM biz.ganttproject.LoggerImpl debug
+FINE: 5. calculating size and packing...
+Nov 19, 2023 12:55:19 AM biz.ganttproject.LoggerImpl debug
+FINE: 6. changing language ...
+Nov 19, 2023 12:55:19 AM biz.ganttproject.LoggerImpl debug
+FINE: 7. first attempt to restore bounds
+Nov 19, 2023 12:55:19 AM biz.ganttproject.LoggerImpl debug
+FINE: 8. finalizing...
+Nov 19, 2023 12:55:20 AM net.sourceforge.ganttproject.GPLogger log
+INFO: Deleting old auto-save files
+Nov 19, 2023 12:55:23 AM net.sourceforge.ganttproject.GPLogger log
+INFO: [GanttOptions] save(): finished!!
+Nov 19, 2023 12:55:32 AM biz.ganttproject.LoggerImpl debug
+FINE: Creating main frame...
+Nov 19, 2023 12:55:32 AM biz.ganttproject.LoggerImpl debug
+FINE: 1. loading look'n'feels
+Nov 19, 2023 12:55:32 AM biz.ganttproject.LoggerImpl debug
+FINE: 2. loading options
+Nov 19, 2023 12:55:32 AM biz.ganttproject.LoggerImpl debug
+FINE: 3. creating menus...
+Nov 19, 2023 12:55:33 AM biz.ganttproject.LoggerImpl debug
+FINE: 4. creating views...
+Nov 19, 2023 12:55:33 AM biz.ganttproject.LoggerImpl debug
+FINE: 5. calculating size and packing...
+Nov 19, 2023 12:55:33 AM biz.ganttproject.LoggerImpl debug
+FINE: 6. changing language ...
+Nov 19, 2023 12:55:33 AM biz.ganttproject.LoggerImpl debug
+FINE: 7. first attempt to restore bounds
+Nov 19, 2023 12:55:33 AM biz.ganttproject.LoggerImpl debug
+FINE: 8. finalizing...
+Nov 19, 2023 12:55:33 AM net.sourceforge.ganttproject.GPLogger log
+INFO: Deleting old auto-save files
+Nov 19, 2023 12:55:53 AM net.sourceforge.ganttproject.GPLogger log
+INFO: [GanttOptions] save(): finished!!
+Nov 19, 2023 12:57:21 AM biz.ganttproject.LoggerImpl debug
+FINE: Creating main frame...
+Nov 19, 2023 12:57:21 AM biz.ganttproject.LoggerImpl debug
+FINE: 1. loading look'n'feels
+Nov 19, 2023 12:57:21 AM biz.ganttproject.LoggerImpl debug
+FINE: 2. loading options
+Nov 19, 2023 12:57:21 AM biz.ganttproject.LoggerImpl debug
+FINE: 3. creating menus...
+Nov 19, 2023 12:57:21 AM biz.ganttproject.LoggerImpl debug
+FINE: 4. creating views...
+Nov 19, 2023 12:57:22 AM biz.ganttproject.LoggerImpl debug
+FINE: 5. calculating size and packing...
+Nov 19, 2023 12:57:22 AM biz.ganttproject.LoggerImpl debug
+FINE: 6. changing language ...
+Nov 19, 2023 12:57:22 AM biz.ganttproject.LoggerImpl debug
+FINE: 7. first attempt to restore bounds
+Nov 19, 2023 12:57:22 AM biz.ganttproject.LoggerImpl debug
+FINE: 8. finalizing...
+Nov 19, 2023 12:57:22 AM net.sourceforge.ganttproject.GPLogger log
+INFO: Deleting old auto-save files
+Nov 19, 2023 12:57:31 AM net.sourceforge.ganttproject.GPLogger log
+INFO: [GanttOptions] save(): finished!!
